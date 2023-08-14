@@ -7,3 +7,6 @@
 /Temp
 /*.vs
 /*.csproj
+/Bundles
+/Assets/StreamingAssets
+/Assets/StreamingAssets.meta
